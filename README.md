@@ -1,6 +1,6 @@
 ## Productivity
 
-#### Project 1: Personal task planner
+#### (Project 1: Personal task planner)[https://joeomatoi.shinyapps.io/shiny_task_planner/]
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178034258-537d24cd-9d98-41fc-a284-fa815d83d919.png">
 
@@ -15,9 +15,9 @@ Under “manage tasks,” tasks can be added to or removed from the calendar, wh
 
 The calendar is automatically saved to the device when the session closes. The calendar can also be exported to Google Calendar through a downloadable csv file (when importing the csv in Google Calendar, the blocks of tasks from the Shiny App will be added to the corresponding day, starting at 10 am.)
 
-Where:
 
-https://joeomatoi.shinyapps.io/shiny_task_planner/
+
+
 
 #### Project 2: Budget manager
 
