@@ -1,5 +1,3 @@
-## Productivity
-
 #### [Project 1: Personal task planner](https://joeomatoi.shinyapps.io/shiny_task_planner/)
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178034258-537d24cd-9d98-41fc-a284-fa815d83d919.png">
@@ -21,7 +19,6 @@ The calendar is automatically saved to the device when the session closes. The c
 
 #### Project 2: Budget manager
 
-## Personal Interests
 
 #### Project 3: Soccer betting simulation
 
