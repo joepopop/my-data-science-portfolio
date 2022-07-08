@@ -1,7 +1,9 @@
 ## Productivity
 
 #### Project 1: Personal task planner
-https://github.com/joepopop/shiny_task_planner/blob/main/paste-E74A1B94.png![image](https://user-images.githubusercontent.com/102631336/178033804-ef5030db-89f8-43dd-ac35-862626ad4d6f.png)
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178034258-537d24cd-9d98-41fc-a284-fa815d83d919.png">
+
 
 What:
 This interactive dashboard simplifies personal task management into 2 simple ideas: 1) the optimal order in which tasks should be completed and 2) the number of hours/day required to complete tasks on time.
