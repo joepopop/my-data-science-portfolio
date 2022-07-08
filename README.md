@@ -27,6 +27,5 @@ The calendar is automatically saved to the device when the session closes. The c
 
 
 
-### Markdown
 
 
