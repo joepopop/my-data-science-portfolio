@@ -3,12 +3,14 @@
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178034258-537d24cd-9d98-41fc-a284-fa815d83d919.png">
 
 Purpose:
-This interactive dashboard simplifies personal task management into 2 simple ideas: 1) the optimal order in which tasks should be completed and 2) the number of hours/day required to complete tasks on time.
+
+This personal task planner simplifies task management into 1) the optimal order in which tasks should be completed and 2) the number of hours/day required to complete tasks on time.
 
 How it works:
-Under “manage tasks,” tasks can be added to or removed from the calendar, which displays tasks in 30 minute chunks and orders them by deadline first and then priority level. The surrounding and filled colors of each task communicate whether it is on time, due, or overdue and the priority level relative to other tasks, respectively. When there are overdue tasks in the calendar (surrounded by red), the user can adjust the number of work hours/day under “edit view” to see how many hours/day are required to complete tasks on time.
 
-The calendar is automatically saved to the device when the session closes. The calendar can also be exported to Google Calendar through a downloadable csv file (when importing the csv in Google Calendar, the blocks of tasks from the dashboard will be added to the corresponding day, starting at 10 am.)
+- MANAGE TASKS: Adds to or removes tasks from the calendar, which displays them in 30 minute chunks and orders them by deadline first and then priority level. The surrounding and filled colors of each task communicate whether it is on time, due, or overdue and the priority level relative to other tasks, respectively. 
+- EDIT VIEW: Adjusts the number of work hours/day and allows users to observe how many hours/day are required to complete tasks on time.  This function is especially useful when there are overdue tasks in the calendar (surrounded by red).
+- EXPORT CALENDAR: The automatically saved calendar can also be exported to Google Calendar through a downloadable csv file (when importing the csv in Google Calendar, the blocks of tasks from the dashboard will be added to the corresponding day, starting at 10 am.)
 
 
 
@@ -19,6 +21,7 @@ The calendar is automatically saved to the device when the session closes. The c
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/102631336/178178141-fafea738-edd1-46b7-80dc-9de935daba01.png">
 
 Purpose: 
+
 This budget manager allows users to examine their spendings/earnings amounts and categories (rent, groceries, salary, passive income, etc) over time.
 
 How it works:
