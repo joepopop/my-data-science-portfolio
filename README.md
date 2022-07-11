@@ -11,13 +11,16 @@ How:
 
 Under “manage tasks,” tasks can be added to or removed from the calendar, which displays tasks in 30 minute chunks and orders them by deadline first and then priority level. The surrounding and filled colors of each task communicate whether it is on time, due, or overdue and the priority level relative to other tasks, respectively. When there are overdue tasks in the calendar (surrounded by red), the user can adjust the number of work hours/day under “edit view” to see how many hours/day are required to complete tasks on time.
 
-The calendar is automatically saved to the device when the session closes. The calendar can also be exported to Google Calendar through a downloadable csv file (when importing the csv in Google Calendar, the blocks of tasks from the Shiny App will be added to the corresponding day, starting at 10 am.)
+The calendar is automatically saved to the device when the session closes. The calendar can also be exported to Google Calendar through a downloadable csv file (when importing the csv in Google Calendar, the blocks of tasks from the dashboard will be added to the corresponding day, starting at 10 am.)
 
 
 
 
 
 #### Project 2: Budget manager
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178176213-0dc97f97-ea0d-43c9-a1e9-b62e8237c384.png">
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/102631336/178176260-b060b8b2-cdd9-408f-bd5d-1e45f0639317.png">
+
 
 
 #### Project 3: Soccer betting simulation
