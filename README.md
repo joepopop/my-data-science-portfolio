@@ -16,7 +16,7 @@ How it works:
 
 
 
-#### Project 2: Budget manager
+#### [Project 2: Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/102631336/178179409-7f74f489-5054-4a7a-83b1-e9d6b3c6f421.png">
 
