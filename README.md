@@ -25,7 +25,7 @@ Purpose:
 This budget manager allows users to examine their spendings/earnings amounts and categories (rent, groceries, salary, passive income, etc) over time.
 
 How it works:
-- Upload Excel file: Uploads an bank transaction excel file (can be downloaded from almost any bank website and the tool is compatible with transaction files of many major banks in the US).
+- Upload Excel file: Uploads a bank transaction excel file (can be downloaded from almost any bank website and the tool is compatible with transaction files of many major banks in the US).
 - Assign by:  Assigns a desired category to transactions based on keywords that appear in their names.  For instance, a user can assign the Entertainment category to all transactions whose name includes the keyword "Netflix."  Once assigned, the tool automatically saves the information on category, which will be applied to any new file uploaded later.
 - Filter by: Filters the data by date, transaction type, keyword, amount, and category.
 - Enter monthly budget: Specifies a monthly budget goal, which appears as a red horizontal line on the left most chart.
