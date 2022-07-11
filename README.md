@@ -15,7 +15,7 @@ The calendar is automatically saved to the device when the session closes. The c
 
 
 #### Project 2: Budget manager
-<img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178176213-0dc97f97-ea0d-43c9-a1e9-b62e8237c384.png">
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/102631336/178178141-fafea738-edd1-46b7-80dc-9de935daba01.png">
 
 Purpose: 
