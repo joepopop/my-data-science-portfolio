@@ -34,6 +34,8 @@ How it works:
 #### [Project 3: Soccer betting simulation](https://github.com/joepopop/soccer_betting_simulation.git)
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/102631336/178430803-bdabc176-e06f-4f6f-8ac6-0e8101065861.png">
 
+##### Part 1: Using Machine Learning
+
 Summary:
 
 A betting simulation on matches in the top 5 European football leagues between 2017-2022 was run based on four hypertuned machine learning models trained on fixtures and odds data.
