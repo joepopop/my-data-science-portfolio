@@ -4,7 +4,7 @@
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178599853-d2bcd3f7-aa6a-47bc-84e1-6bf34e2716df.png">
 
-A betting simulation on matches in the top 5 European football leagues between 2020-2022 was run based on predictions (H = home win, A = away win, D = draw) made by four hypertuned machine learning models trained using fixtures and odds data.
+A betting simulation on matches in the top 5 European football leagues between 2019-2020 and 2021-2022 seasons was run based on predictions (H = home win, A = away win, D = draw) made by four hypertuned machine learning models trained using fixtures and odds data.
 
 Findings:
 
