@@ -14,9 +14,9 @@ Results:
 - The models rarely predict a draw and the profitability is unclear.
 - Even though most games end up in a home win, the models consistently yielded negative profits from betting whenever they predict a home win.
 
-##### Part 2: Exploiting Arbitrage Opportunities
+##### Part 2: Exploiting Arbitrage
 
-<img width="1278" alt="image" src="https://user-images.githubusercontent.com/102631336/178571936-49093c8a-ae18-44f5-a89c-e544eab71274.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/102631336/178573573-85022f15-934c-4acf-b4c2-e3596ca9c8ad.png">
 
 Summary:
 
