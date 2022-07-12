@@ -36,7 +36,7 @@ How it works:
 
 Summary:
 
-A betting simulation on matches in the top 5 European football leagues between 2017-2022 was run based on four hypertuned machine learning models trained on fixture and odds data.
+A betting simulation on matches in the top 5 European football leagues between 2017-2022 was run based on four hypertuned machine learning models trained on fixtures and odds data.
 
 Results:
 
