@@ -2,7 +2,7 @@
 
 ##### Part 1: Using Machine Learning
 
-<img width="1275" alt="image" src="https://user-images.githubusercontent.com/102631336/178593342-4bb6fa66-dd5e-4e1f-910b-9abcb077ac96.png">
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178599853-d2bcd3f7-aa6a-47bc-84e1-6bf34e2716df.png">
 
 Summary:
 
