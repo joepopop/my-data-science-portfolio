@@ -16,7 +16,7 @@ Results:
 
 ##### Part 2: Exploiting Arbitrage
 
-<img width="1277" alt="image" src="https://user-images.githubusercontent.com/102631336/178576478-15f299e3-b964-48f4-aa62-532a23c7749b.png">
+<img width="1278" alt="image" src="https://user-images.githubusercontent.com/102631336/178577030-c5576976-6622-4bf2-8190-4be78aa1f754.png">
 
 Summary:
 
