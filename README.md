@@ -31,9 +31,9 @@ How it works:
 - Enter monthly budget: Specifies a monthly budget goal, which appears as a red horizontal line on the left most chart.
 
 
-#### Project 3: Soccer betting simulation
+#### [Project 3: Soccer betting simulation](https://github.com/joepopop/soccer_betting_simulation.git)
 
-##### [Part 1: Using Machine Learning](https://github.com/joepopop/soccer_betting_simulation.git)
+##### Part 1: Using Machine Learning
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178440874-3bbe0b40-88d7-4993-9ad1-84d419bee4eb.png">
 
@@ -47,6 +47,9 @@ Results:
 - The models rarely predict a draw and the profitability is unclear.
 - Even though most games end up in a home win, the models consistently yielded negative profits from betting whenever they predict a home win.
 
+##### Part 2: Exploiting Arbitrage Opportunities
+
+<img width="1277" alt="image" src="https://user-images.githubusercontent.com/102631336/178570918-812acfd9-41b0-4fe5-9469-801cbfddee5d.png">
 
 
 
