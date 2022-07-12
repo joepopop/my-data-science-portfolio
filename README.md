@@ -4,11 +4,9 @@
 
 <img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178599853-d2bcd3f7-aa6a-47bc-84e1-6bf34e2716df.png">
 
-Summary:
-
 A betting simulation on matches in the top 5 European football leagues between 2020-2022 was run based on predictions (H = home win, A = away win, D = draw) made by four hypertuned machine learning models trained using fixtures and odds data.
 
-Results:
+Findings:
 
 - All models except for Boosted Trees consistently yielded positive profits from betting whenever they predict an away win.
 - The models rarely predict a draw and the profitability is unclear.
@@ -18,12 +16,9 @@ Results:
 
 <img width="1276" alt="image" src="https://user-images.githubusercontent.com/102631336/178593469-02734de0-7bbf-4533-a78c-26e290fd5760.png">
 
-Summary:
+Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 
 
-Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 1.
-
-Results:
-- The return on investment was about 9.5% ($75 profit / 2360 matches * $3)
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/102631336/178602065-b2c6b22f-6499-4f70-b32e-88509a6d859b.png">
 
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
