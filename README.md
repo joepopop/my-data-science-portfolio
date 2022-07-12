@@ -9,7 +9,7 @@ A betting simulation on matches in the top 5 European football leagues between 2
 Findings:
 
 - All models except for Boosted Trees consistently yielded positive profits from betting whenever they predict an away win.
-- The models rarely predict a draw and the profitability is unclear.
+- Since the models rarely predict a draw, the profitability is unclear.
 - Even though most games end up in a home win, the models consistently yielded negative profits from betting whenever they predict a home win.
 
 ##### Part 2: Exploiting Arbitrage
