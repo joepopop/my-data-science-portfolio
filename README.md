@@ -16,16 +16,15 @@ Results:
 
 ##### Part 2: Exploiting Arbitrage
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/102631336/178573573-85022f15-934c-4acf-b4c2-e3596ca9c8ad.png">
+<img width="1277" alt="image" src="https://user-images.githubusercontent.com/102631336/178576478-15f299e3-b964-48f4-aa62-532a23c7749b.png">
 
 Summary:
 
 Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm bet only when (1/odds for home + 1/odds for draw + 1/odds for away) was less than 1.
 
 Results:
-- No money was lost from a single bet.
 - The 2017-2018 season was the most profitable and profitability in later seasons declined.
-- Overall return on investment is 215% ($1355.22 in profit from $631 investment), which is clearly higher (even in the seasons after 2017-2018) than the machine learning approach.
+- The profitability past the 2017-2018 season is unclear.
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
