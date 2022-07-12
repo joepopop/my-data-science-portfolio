@@ -25,7 +25,7 @@ Another betting simulation on the same matches was run based on arbitrage opport
 Results:
 - No money was lost from a single bet.
 - The 2017-2018 season was the most profitable and profitability in later seasons declined.
-- Overall return on investment is clearly higher (even in the seasons after 2017-2018) than the machine learning approach.
+- Overall return on investment is 215% ($1355.22 in profit from $631 investment), which is clearly higher (even in the seasons after 2017-2018) than the machine learning approach.
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
