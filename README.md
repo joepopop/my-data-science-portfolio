@@ -23,8 +23,9 @@ Summary:
 Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmaker and bet only when (1/odds for home + 1/odds for draw + 1/odds for away) was less than 1.
 
 Results:
-- The 2017-2018 season was the most profitable and the profitability past the 2017-2018 season is unclear.
-- It seems that arbitrage opportunities disappeared (at least with this method and in these 5 competitions).
+- The 2017-2018 season was the most profitable and the profitability past that season is significantly lower.
+- The profitability past the 2017-2018 season is at a similar level compared to the machine learning-based approach that only bets on predicted away wins.
+- It seems that clear arbitrage opportunities disappeared in 2018 (at least with this method and in these 5 competitions).
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
