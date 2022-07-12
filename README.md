@@ -18,9 +18,14 @@ Findings:
 
 Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 
 
+##### Results
+
 <p align="center">
   <img width="594" alt="image" src="https://user-images.githubusercontent.com/102631336/178603434-d7ee58ee-60cc-47a0-a962-ab1fb9c74599.png">
 </p>
+
+The table presents all methods that yielded a positive profit in descending order of the number of matches.  Overall, Nearest Neighbors (A&D) and Random Forest (A&D) are the most preferable choice since they have a good balance of ROI and number of matches.  For instance, although Random Forest (D) has the highest ROI of 15.66%, 118 games may not be sufficient to prove its validity and not preferable compared to around 430 games the two methods have in terms of diversifying betting risk.  On the other hand, Arbitrage has the highest number of matches of 2360 but the ROI of 0.95% is too low to make the investment worth it.
+
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
