@@ -2,11 +2,11 @@
 
 ##### Part 1: Using Machine Learning
 
-<img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178440874-3bbe0b40-88d7-4993-9ad1-84d419bee4eb.png">
+<img width="1275" alt="image" src="https://user-images.githubusercontent.com/102631336/178593342-4bb6fa66-dd5e-4e1f-910b-9abcb077ac96.png">
 
 Summary:
 
-A betting simulation on matches in the top 5 European football leagues between 2017-2022 was run based on predictions (H = home win, A = away win, D = draw) made by four hypertuned machine learning models trained using fixtures and odds data.
+A betting simulation on matches in the top 5 European football leagues between 2020-2022 was run based on predictions (H = home win, A = away win, D = draw) made by four hypertuned machine learning models trained using fixtures and odds data.
 
 Results:
 
@@ -16,16 +16,15 @@ Results:
 
 ##### Part 2: Exploiting Arbitrage
 
-<img width="1278" alt="image" src="https://user-images.githubusercontent.com/102631336/178577030-c5576976-6622-4bf2-8190-4be78aa1f754.png">
+<img width="1276" alt="image" src="https://user-images.githubusercontent.com/102631336/178593469-02734de0-7bbf-4533-a78c-26e290fd5760.png">
 
 Summary:
 
 Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmaker and bet only when (1/odds for home + 1/odds for draw + 1/odds for away) was less than 1.
 
 Results:
-- The 2017-2018 season was the most profitable and the profitability past that season is significantly lower.
-- The profitability past the 2017-2018 season is at a similar level compared to the machine learning-based approach that only bets on predicted away wins.
-- It seems that clear arbitrage opportunities disappeared in 2018 (at least with this method and in these 5 competitions).
+- The return on investment was about 9.5% ($75 profit / 2360 matches * $3)
+
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
