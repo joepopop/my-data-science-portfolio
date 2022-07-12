@@ -35,7 +35,7 @@ How it works:
 
 ##### [Part 1: Using Machine Learning](https://github.com/joepopop/soccer_betting_simulation.git)
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/102631336/178439616-61f31595-829d-4ecf-a044-04e6678282c2.png">
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/102631336/178440874-3bbe0b40-88d7-4993-9ad1-84d419bee4eb.png">
 
 Summary:
 
