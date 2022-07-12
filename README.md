@@ -34,6 +34,15 @@ How it works:
 #### Project 3: Soccer betting simulation
 <img width="1278" alt="image" src="https://user-images.githubusercontent.com/102631336/178430803-bdabc176-e06f-4f6f-8ac6-0e8101065861.png">
 
+Summary:
+
+A betting simulation on matches in the top 5 European football leagues between 2017-2022 was run based on four hypertuned machine learning models trained on fixture and odds data.
+
+Results:
+
+- All models except for Boosted Trees consistently yielded positive profits from betting whenever they predict an away win.
+- The models rarely predict a draw and the profitability is unclear.
+- Even though most games end up in a home win, the models consistently yielded negative profits from betting whenever they predict a home win.
 
 
 
