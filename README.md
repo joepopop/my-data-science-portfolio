@@ -32,6 +32,9 @@ How it works:
 
 
 #### Project 3: Soccer betting simulation
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/102631336/178427130-1870981d-a6d7-48b0-9a4e-dfe04a0ad40f.png">
+<img width="1276" alt="image" src="https://user-images.githubusercontent.com/102631336/178426911-1a9fed6a-a6aa-45ba-8d9d-b904ee87710e.png">
+
 
 
 
