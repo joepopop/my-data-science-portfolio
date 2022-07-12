@@ -20,7 +20,7 @@ Results:
 
 Summary:
 
-Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmaker and bet only when (1/odds for home + 1/odds for draw + 1/odds for away) was less than 1.
+Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 1.
 
 Results:
 - The return on investment was about 9.5% ($75 profit / 2360 matches * $3)
