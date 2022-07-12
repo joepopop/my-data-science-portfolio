@@ -18,8 +18,9 @@ Findings:
 
 Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 
 
-<img width="1032" alt="image" src="https://user-images.githubusercontent.com/102631336/178602232-4c18ffd3-0b0f-4030-92b8-003da54cb3e9.png">
-
+<p align="center">
+  <img width="597" alt="image" src="https://user-images.githubusercontent.com/102631336/178603245-f5effea0-5f2c-475e-812b-ccff9d98f40a.png">
+</p>
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/102631336/178178483-90db8ec7-bb52-4ec4-a8eb-d90194716bc2.png">
