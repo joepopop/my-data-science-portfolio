@@ -24,7 +24,7 @@ Another betting simulation on the same matches was run based on arbitrage opport
   <img width="661" alt="image" src="https://user-images.githubusercontent.com/102631336/178609163-c3cf2a08-bde0-4a93-a5a8-d5bce659a3f0.png">
 </p>
 
-The table presents all methods that yielded a positive profit in descending order of the number of matches.  Overall, Nearest Neighbors (A&D) and Random Forest (A&D) are the most preferable choice since they have a good balance of ROI and number of matches.  For instance, although Random Forest (D) has the highest ROI of 15.66%, 118 games may not be sufficient to prove its validity and not preferable compared to around 430 games the two methods have in terms of diversifying betting risk.  On the other hand, Arbitrage has the highest number of matches of 2360 but the ROI of 0.95% is too low to make the investment worth it.
+The table presents all methods that yielded a positive profit in descending order of the number of matches.  Overall, Nearest Neighbors (A&D) and Random Forest (A&D) are the most preferable choice since they have a good balance of ROI and number of matches.  For instance, although Random Forest (D) has the highest ROI of 13.27%, 118 games may not be sufficient to prove its validity and not preferable compared to around 430 games the two methods have in terms of diversifying betting risk.  On the other hand, Arbitrage has the highest number of matches of 2360 but the ROI of 0.95% is too low to make the investment worth it.
 
 
 #### [Budget manager](https://joeomatoi.shinyapps.io/budgetmanager/)
