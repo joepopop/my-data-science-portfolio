@@ -16,7 +16,7 @@ Findings:
 
 <img width="1276" alt="image" src="https://user-images.githubusercontent.com/102631336/178593469-02734de0-7bbf-4533-a78c-26e290fd5760.png">
 
-Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 1.  Although this method may look more profitable than any method from before, but it has been tested on many more matches and every match requires 3 times the investment amount of previous methods.  
+Another betting simulation on the same matches was run based on arbitrage opportunities.  The alogrithm took advantage of different odds provided by several bookmakers and bet only when (1/market maximum odds for home + 1/market maximum odds for draw + 1/market maximum odds for away) was less than 1.  Although this method may look more profitable than any method from before, it has been tested on many more matches and every match requires 3 times the investment amount of previous methods.  
 
 ##### Results
 
